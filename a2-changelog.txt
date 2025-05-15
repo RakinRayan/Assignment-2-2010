@@ -1,0 +1,15 @@
+9/5/25: Fixed specs and JUnit tests (see forum discussion titled "Bunch of questions for Assignment2"):
+
+* In specs:
+- Clarified definition of path
+- Fixed precondition for T15 to align with JUnit test
+- Included additional path example in T15.
+
+* In JUnit tests:
+- Fixed testAssignCityLowestA().
+- Fixed testGiveAnyAssignA() and other tests by including check for assignment of all cities in assertion.
+
+
+5/5/25: Clarified definition of neighbour as per forum discussion.
+
+4/5/25: Released assignment.
